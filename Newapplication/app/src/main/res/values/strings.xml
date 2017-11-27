@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="app_import">Import</string>
+    <string name="app_gallery">Gallery</string>
+    <string name="app_slideshow">Slideshow</string>
+    <string name="app_tools">Settings</string>
+    <string name="navdemo">Welcome to Life Clearance</string>
+    <string name="gallery">This is Dashboard</string>
+    <string name="fileimport">This is Leadership page</string>
+    <string name="slideshow">This is Grihasti page</string>
+    <string name="ssy">Siddha Samadhi Yog</string>
+    <string name="action_settings">settings</string>
+    <string name="leadership">Leadership</string>
+    <string name="Grihasti">Grihasti</string>
+    <string name="dash">Dashboard</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>

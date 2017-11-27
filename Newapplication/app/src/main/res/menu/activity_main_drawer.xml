@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gallery"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/dash"/>
+        <item
+            android:id="@+id/fileimport"
+            android:icon="@drawable/leadership"
+            android:title="@string/leadership"/>
+        <item
+            android:id="@+id/slideshow"
+            android:icon="@drawable/grihasti"
+            android:title="@string/Grihasti"/>
+
+        <item
+            android:id="@+id/ssy"
+            android:icon="@drawable/nature"
+            android:title="@string/ssy"/>
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_build_black_24dp"
+            android:title="@string/app_tools"/>
+    </group>
+</menu>
